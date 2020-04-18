@@ -12,6 +12,7 @@
 	<artifactId>ohorich</artifactId>
 	<version>0.0.1</version>
 	<name>ohorich</name>
+	<packaging>war</packaging>
 	<description>Demo project for Spring Boot</description>
 
 	<properties>

@@ -18,7 +18,7 @@ public class HomeControllerTest {
 	private MockMvc mvc;
 
 	@Test
-	  void whenValidIndexUrl_thenReturns200() throws Exception {
+	private void whenValidIndexUrl_thenReturns200() throws Exception {
 		mvc.perform(MockMvcRequestBuilders.get("/")).andExpect(status().isOk());
-	  }
+	}
 }
