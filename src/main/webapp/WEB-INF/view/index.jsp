@@ -25,7 +25,7 @@
 </head>
 <body>
 	<h2>Spring Example Index JSP web page</h2>
-	<p>Test new deploy</p>
+	<p>Test continuous deploy</p>
 	<p>IP Address: <%=ip %></p>
 </body>
 </html>
