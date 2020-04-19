@@ -25,8 +25,7 @@
 </head>
 <body>
 	<h2>Spring Example Index JSP web page</h2>
-	<p>This is an example of an index (root) web page, implemented as a
-		Java Server Page.</p>
+	<p>Test new deploy</p>
 	<p>IP Address: <%=ip %></p>
 </body>
 </html>
